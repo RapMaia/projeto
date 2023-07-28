@@ -6,9 +6,9 @@ const img = document.querySelector('#profile img')
 // subustituir a img
 if (html.classList.contains('light')) {
 
-  img.setAttribute('src','./assets/avatar-light.png')}
+  img.setAttribute('src','./assets/rosana.png')}
   else {
-    img.setAttribute ('src', './assets/avatar.png')
+    img.setAttribute ('src', './assets/rosanal.png')
   }
 }
   
