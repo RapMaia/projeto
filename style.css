@@ -6,15 +6,15 @@
 
 :root {
   --text-color: white;
-  --bg-url: url(./assets/menino.jpg);
+  --bg-url: url(./assets/lua1.jpg);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.1);
   --switch-bg-url: url(./assets/moon-stars.svg);
 }
 .light {
   --text-color: black;
-  --bg-url: url(./assets/bola.jpg);
-  --stroke-color: rgba(8, 4, 4, 0.5);
+  --bg-url: url(./assets/sol2.jpg);
+  --stroke-color: rgba(8, 5, 5, 0.5);
   --surface-color: rgba(0, 0, 0, 0.05);
   --switch-bg-url: url(./assets/sun.svg);
 }
